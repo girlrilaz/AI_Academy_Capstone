@@ -1,0 +1,8 @@
+
+cython
+numpy
+flask
+pandas
+scikit-learn
+xgboost
+hyperopt
